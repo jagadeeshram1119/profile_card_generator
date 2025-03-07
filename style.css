@@ -2,3 +2,27 @@ body {
   text-align: center;
   background-color: aqua;
 }
+.carditeam {
+  text-align: center;
+  background-color: rgb(226, 233, 129);
+  border: 2px solid lightgreen;
+  border-radius: 20px;
+  height: auto;
+  width: 300px; 
+  margin: 20px auto;
+  padding: 10px; 
+}
+.cardimg {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+#generatorbtn {
+  background-color: cadetblue;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
